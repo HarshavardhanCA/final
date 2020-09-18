@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1600461943 source:d:\harshavardhan c.a\my work(draft)\project\scientific_calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1600462046 d:\harshavardhan c.a\my work(draft)\project\scientific_calculator\unity\unity.h
+	"unity_internals.h"
+
+1600462007 d:\harshavardhan c.a\my work(draft)\project\scientific_calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
